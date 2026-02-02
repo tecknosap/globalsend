@@ -11,13 +11,13 @@ variable "location" {
 variable "app_service_name" {
   description = "Name of the GlobalSend App Service."
   type        = string
-  default     = "globalsend-app"
+  # default     = "globalsend-app"
 }
 
 variable "app_service_plan_name" {
   description = "Name of the GlobalSend App Service Plan."
   type        = string
-  default     = "globalsend-plan"
+  # default     = "globalsend-plan"
 }
 
 variable "zip_blob_url" {

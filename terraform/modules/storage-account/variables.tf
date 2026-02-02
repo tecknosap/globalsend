@@ -12,7 +12,7 @@ variable "location" {
 variable "storage_account_name" {
   description = "Prefix for the storage account used for ZIP deployment."
   type        = string
-  default     = "globalsendzip"
+  # default     = "globalsendzip"
 }
 
 variable "storage_container_name" {
