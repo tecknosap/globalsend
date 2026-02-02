@@ -2,11 +2,11 @@ name: Terraform Deploy
 
 on:
   push:
-    branches:
+    branches: ##
       - main
       - staging
       - dev
-  workflow_dispatch: ######
+  workflow_dispatch: 
 
 permissions:
   id-token: write
