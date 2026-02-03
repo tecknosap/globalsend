@@ -78,8 +78,6 @@ flowchart LR
     F --> G[Azure Staging Environment]
     G --> H[Azure Production - Blue/Green Deployment]
     H --> I[End Users]
-💡 Key Highlights
-Automation-first mindset reduces friction and human error
 
 Reproducible environments via Terraform
 
