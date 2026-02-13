@@ -31,6 +31,7 @@ resource "azurerm_linux_web_app" "globalsend_app_service" {
 
   app_settings = {
     WEBSITE_RUN_FROM_PACKAGE = var.zip_blob_url  # Configures the app to run from a zip deployment package
+    
   }
 }
 
