@@ -32,6 +32,12 @@ Local Dev → PowerShell → GitHub → GitHub Actions → OIDC → Terraform �
 ![Our website](./assets/globalsend-site.png)
 
 ---
+### Our Website
+
+
+![Our website](./assets/globalsend-site.png)
+
+---
 
 ## ⚡ Key Components
 
